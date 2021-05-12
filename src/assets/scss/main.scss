@@ -1,0 +1,11 @@
+@import 'plugins/bootstrap-grid.min.css';
+@import 'plugins/bootstrap-utilities.min.css';
+@import 'theme/color.scss';
+@import 'theme/utilities.scss';
+@import 'theme/components.scss';
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
